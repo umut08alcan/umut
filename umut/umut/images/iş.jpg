@@ -1,0 +1,1801 @@
+<!DOCTYPE html>
+<!-- saved from url=(0041)http://www.isbirelektrik.com.tr/index.php -->
+<html lang="zxx" class=" no-htmlimports"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>İşbir Elektrik Sanayi A.Ş.</title> 
+	  
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="http://www.isbirelektrik.com.tr/img/favicon.png"> 
+<link rel="stylesheet" type="text/css" href="./iş_files/bootstrap.min.css"> 
+<link rel="stylesheet" type="text/css" href="./iş_files/font-awesome.css"> 
+<link rel="stylesheet" type="text/css" href="./iş_files/icomoon.css">
+<link rel="stylesheet" type="text/css" href="./iş_files/swiper.min.css">
+<link rel="stylesheet" type="text/css" href="./iş_files/slider.css">
+<link rel="stylesheet" href="./iş_files/animate.css"> 
+<link rel="stylesheet" type="text/css" href="./iş_files/switcher.css">
+<link rel="stylesheet" href="./iş_files/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="./iş_files/default.css">
+<link rel="stylesheet" type="text/css" href="./iş_files/styles.css" id="colors">
+<link href="./iş_files/css" rel="stylesheet">	<style type="text/css">
+	.video-overlay {
+      background: linear-gradient(#95694c00,#ededed)!important;
+   }
+   .partners { 
+    	padding: 25px 0px; 
+    	transition: transform .6s; /* Animation */
+   }
+ 
+		.partners:hover {
+		  transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */ 
+		}
+ 
+
+</style>
+ 	
+</head>
+<body style="background-color:#ededed;">
+	 
+
+ 
+<style type="text/css">
+
+/*-----------------------------------------3. Navbar-------------------------------------------*/
+.nav-menu > li:hover > a,.nav-menu > li.active > a,.nav-menu > li.focus > a{color: #d21e2b;}.nav-menu > li:hover > a .submenu-indicator-chevron,.nav-menu > .active > a .submenu-indicator-chevron,.nav-menu > .focus > a .submenu-indicator-chevron{border-color: transparent #d21e2b #d21e2b transparent;}.nav-search-button:hover .nav-search-icon{color: #d21e2b;}.nav-button{height: auto !important; margin: 18px 15px 0; padding: 8px 14px; display: inline-block; color: #fff; font-size: 14px; text-align: center; text-decoration: none; border-radius: 4px; background-color: #d21e2b; -webkit-transition: opacity 0.3s; transition: opacity 0.3s;}.megamenu-list > li > a:hover{color: #d21e2b; background-color:#f7f7f7;}@media (min-width: 991px){#nav-transparent .nav-menu > li:hover > a, #nav-transparent .nav-menu > li.active > a, #nav-transparent .nav-menu > li.focus > a{color: #d21e2b;}#nav-transparent .nav-menu > li:hover > a .submenu-indicator-chevron, #nav-transparent .nav-menu > .active > a .submenu-indicator-chevron, #nav-transparent .nav-menu > .focus > a .submenu-indicator-chevron{border-color: transparent #d21e2b #d21e2b transparent;}#nav-transparent .isbir-dropdown > li:hover > a .submenu-indicator-chevron, #nav-transparent .isbir-dropdown > .focus > a .submenu-indicator-chevron{border-color: transparent #d21e2b #d21e2b transparent;}#nav-transparent .nav-white-bg .nav-menu > li:hover > a{color: #d21e2b;}}.isbir-dropdown > li:hover > a,.isbir-dropdown > li.focus > a{color: #d21e2b;}.isbir-dropdown > li:hover > a .submenu-indicator-chevron,.isbir-dropdown > .focus > a .submenu-indicator-chevron{border-color: transparent #d21e2b #d21e2b transparent;}
+
+
+.navigation {
+  width: 100%;
+  height: 95px;
+  display: table;
+  position: relative;
+  font-family: inherit;
+  background-color: #ffffff;
+}
+
+.navigation-fixed-wrapper{
+  background-color: #ffffff; 
+  box-shadow: 0 0 65px rgba(0,0,0,.09);
+  z-index: 2;
+  position: relative;
+}
+
+@media (max-width: 991px) {
+  .navigation {
+    padding: 15px 0px;
+  }
+}
+
+.navigation * {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.navigation-portrait {
+  height: 48px;
+}
+
+.navigation-fixed-wrapper {
+  width: 100%;
+  left: 0;
+  z-index: 19998;
+  /*will-change: opacity;*/
+}
+
+.navigation-fixed-wrapper.fixed {
+  position: fixed !important;
+  -webkit-animation: fade .50s;
+  animation: fade .50s;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.999;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.navigation-fixed-wrapper .navigation {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.navigation-fixed-placeholder {
+  width: 100%;
+  display: none;
+}
+
+.navigation-fixed-placeholder.navigation-fixed-placeholder.visible {
+  display: block;
+}
+
+.navigation-hidden {
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  position: absolute;
+  top: -9999px;
+}
+
+.align-to-right {
+  float: right;
+}
+
+.nav-header {
+  float: left;
+}
+@media (min-width: 991px) {
+  .nav-header {
+    height: 95px;
+    display: flex;
+    align-items: center;
+  }
+}
+
+.nav-header-center{
+  float: none;
+  text-align: center;
+  display: block;
+}
+
+.navigation-hidden .nav-header {
+  display: none;
+}
+
+.nav-brand {
+  line-height: 70px;
+  padding: 0px 15px 0px 0px;
+  color: #70798b;
+  font-size: 24px;
+  text-decoration: none !important;
+}
+
+@media (max-width: 991px) {
+  .nav-brand {
+    padding: 0px 15px;
+  }
+}
+
+.nav-brand:hover, .nav-brand:focus {
+  color: #70798b;
+}
+
+.navigation-portrait .nav-brand {
+  font-size: 18px;
+  line-height: 48px;
+}
+
+.nav-logo > img {
+  height: 48px;
+  margin: 11px auto;
+  padding: 0 15px;
+  float: left;
+}
+
+.nav-logo:focus > img {
+  outline: initial;
+}
+
+.navigation-portrait .nav-logo > img {
+  height: 36px;
+  margin: 6px auto 6px 15px;
+  padding: 0;
+}
+
+.nav-toggle {
+  width: 30px;
+  height: 30px;
+  padding: 6px 2px 0;
+  position: absolute;
+  top: 50%;
+  margin-top: -14px;
+  right: 15px;
+  display: none;
+  cursor: pointer;
+}
+
+.nav-toggle:before {
+  content: "";
+  position: absolute;
+  width: 24px;
+  height: 2px;
+  background-color: #70798b;
+  border-radius: 10px;
+  box-shadow: 0 0.5em 0 0 #70798b, 0 1em 0 0 #70798b;
+}
+
+.navigation-portrait .nav-toggle {
+  display: block;
+}
+
+.navigation-portrait .nav-menus-wrapper {
+  width: 320px;
+  height: 100%;
+  top: 0;
+  left: -400px;
+  position: fixed;
+  background-color: #ffffff;
+  z-index: 999999;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  -webkit-transition-duration: .8s;
+  transition-duration: .8s;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+.navigation-portrait .nav-menus-wrapper.nav-menus-wrapper-right {
+  left: auto;
+  right: -400px;
+}
+
+.navigation-portrait .nav-menus-wrapper.nav-menus-wrapper-open {
+  left: 0;
+}
+
+.navigation-portrait .nav-menus-wrapper.nav-menus-wrapper-right.nav-menus-wrapper-open {
+  left: auto;
+  right: 0;
+}
+
+.nav-menus-wrapper-close-button {
+  width: 30px;
+  height: 40px;
+  margin: 10px 7px;
+  display: none;
+  float: right;
+  color: #70798b;
+  font-size: 26px;
+  cursor: pointer;
+}
+
+.navigation-portrait .nav-menus-wrapper-close-button {
+  display: block;
+}
+
+.nav-menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: normal;
+  font-size: 0;
+}
+
+.navigation-portrait .nav-menu {
+  width: 100%;
+}
+
+.nav-menu.nav-menu-centered {
+  text-align: center;
+}
+
+.nav-menu.nav-menu-centered > li {
+  float: none;
+}
+
+.nav-menu > li {
+  display: inline-block;
+  float: left;
+  text-align: left;
+}
+
+.navigation-portrait .nav-menu > li {
+  width: 100%;
+  position: relative;
+  border-top: solid 1px #f7f7f7;
+}
+
+.navigation-portrait .nav-menu > li:last-child {
+  border-bottom: solid 1px #f0f0f0;
+}
+
+.nav-menu + .nav-menu > li:first-child {
+  border-top: none;
+}
+
+.nav-menu > li > a {
+  height: 95px;
+  padding: 0 16px 0 16px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  font-size: 16px;
+  letter-spacing: 1px;
+  font-weight: 600; 
+  color: #222222;
+  -webkit-transition: color 0.3s, background 0.3s;
+  transition: color 0.3s, background 0.3s;
+}
+
+.navigation-portrait .nav-menu > li > a {
+  width: 100%;
+  height: auto;
+  padding: 12px 15px 12px 26px;
+  color: #1D1D1B;
+}
+
+.nav-menu > li > a > i,
+.nav-menu > li > a > [class*="ion-"] {
+  width: 18px;
+  height: 16px;
+  line-height: 16px;
+  -webkit-transform: scale(1.4);
+  -ms-transform: scale(1.4);
+  transform: scale(1.4);
+}
+
+.nav-menu > li > a > [class*="ion-"] {
+  width: 16px;
+  display: inline-block;
+  -webkit-transform: scale(1.8);
+  -ms-transform: scale(1.8);
+  transform: scale(1.8);
+}
+
+.navigation-portrait .nav-menu.nav-menu-social {
+  width: 100%;
+  text-align: center;
+}
+
+.nav-menu.nav-menu-social > li {
+  text-align: center;
+  float: none;
+  border: none !important;
+}
+
+.navigation-portrait .nav-menu.nav-menu-social > li {
+  width: auto;
+}
+
+.nav-menu.nav-menu-social > li > a > [class*="ion-"] {
+  font-size: 12px;
+}
+
+.nav-menu.nav-menu-social > li > a > .fa {
+  font-size: 14px;
+}
+
+.navigation-portrait .nav-menu.nav-menu-social > li > a {
+  padding: 15px;
+}
+
+.submenu-indicator {
+  margin-left: 6px;
+  margin-top: -3px;
+  float: right;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.navigation-portrait .submenu-indicator {
+  width: 54px;
+  height: 44px;
+  margin-top: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+  text-align: center;
+  z-index: 20000;
+}
+
+.submenu-indicator-chevron {
+  height: 6px;
+  width: 6px;
+  display: block;
+  border-style: solid;
+  border-width: 0 1px 1px 0;
+  border-color: transparent #70798b #70798b transparent;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-transition: border 0.3s;
+  transition: border 0.3s;
+}
+
+.navigation-portrait .submenu-indicator-chevron {
+  position: absolute;
+  top: 18px;
+  left: 24px;
+}
+
+.navigation-portrait .submenu-indicator.submenu-indicator-up {
+  -webkit-transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  transform: rotate(-180deg);
+}
+
+.nav-overlay-panel {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  position: fixed;
+  display: none;
+  z-index: 99999;
+}
+
+.no-scroll {
+  touch-action: none;
+  overflow-x: hidden;
+}
+
+/* SEARCH PANEL */
+.nav-search {
+  height: 70px;
+  float: right;
+  z-index: 19998;
+}
+
+.navigation-portrait .nav-search {
+  height: 48px;
+  padding: 0 10px;
+  margin-right: 52px;
+}
+
+.navigation-hidden .nav-search {
+  display: none;
+}
+
+.nav-search-button {
+  width: 40px;
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+  cursor: pointer;
+  background-color: transparent;
+  margin-top: 3px;
+}
+
+/*Extra Class*/
+.nav-search-button i{
+  font-size: 15px;
+  font-weight: 600;
+}
+@media (max-width: 991px) {
+  .nav-search-button{
+    margin-top: 0px;
+    width: 25px !important;
+    height: 50px;
+    padding-top: 3px;
+  }
+  .nav-search-button i{
+    font-size: 17px;
+    font-weight: 600;
+  }   
+
+  .nav-search-inner input{
+    margin-top: 15px !important;
+  }
+  .nav-search-close-button{
+    top: 25px !important; 
+  }
+}
+
+.navigation-portrait .nav-search-button {
+  width: 50px;
+  height: 48px;
+  line-height: 46px;
+  font-size: 22px;
+}
+
+.nav-search-icon {
+  width: 14px;
+  height: 14px;
+  margin: 2px 8px 8px 4px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  color: #70798b;
+  text-align: left;
+  text-indent: -9999px;
+  border: 2px solid;
+  border-radius: 50%;
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  -webkit-transition: color 0.3s;
+  transition: color 0.3s;
+}
+
+.nav-search-icon:after, .nav-search-icon:before {
+  content: '';
+  pointer-events: none;
+}
+
+.nav-search-icon:before {
+  width: 2px;
+  height: 11px;
+  top: 11px;
+  position: absolute;
+  left: 50%;
+  border-radius: 0 0 1px 1px;
+  box-shadow: inset 0 0 0 32px;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+.nav-search > form {
+  width: 100%;
+  height: 100%;
+  padding: 0 auto;
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  z-index: 99;
+}
+
+.nav-search-inner {
+  width: 70%;
+  height: 85px;
+  margin: auto;
+  display: table;
+}
+
+.navigation-portrait .nav-search-inner {
+  height: 48px;
+}
+
+.nav-search-inner input[type=text],
+.nav-search-inner input[type=search] {
+  height: 85px;
+  width: 100%;
+  margin: 0;
+  padding: 0 12px;
+  font-size: 26px;
+  text-align: center;
+  color: #70798b;
+  outline: none;
+  line-height: 70px;
+  border: none;
+  background-color: transparent;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.navigation-portrait .nav-search-inner input[type=text],
+.navigation-portrait .nav-search-inner input[type=search] {
+  height: 48px;
+  font-size: 18px;
+  line-height: 48px;
+}
+
+.nav-search-close-button {
+  width: 28px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  right: 20px;
+  top: 30px;
+  line-height: normal;
+  color: #222;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  outline: none;
+}
+
+.navigation-portrait .nav-search-close-button {
+  top: 10px;
+  right: 14px;
+}
+
+.nav-button:hover, .nav-button:focus {
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.85;
+}
+
+.navigation-portrait .nav-button {
+  width: calc(100% - 52px);
+  margin: 17px 26px;
+}
+
+/* NAVIGATION TEXT */
+.nav-text {
+  margin: 25px 15px;
+  display: inline-block;
+  color: #70798b;
+  font-size: 14px;
+}
+
+.navigation-portrait .nav-text {
+  width: calc(100% - 52px);
+  margin: 12px 26px 0;
+}
+
+.navigation-portrait .nav-text + ul {
+  margin-top: 15px;
+}
+
+/* DROPDOWN EXTENSION */
+.isbir-dropdown {
+  min-width: 200px;
+  margin: 0;
+  padding: 0;
+  left: 25%;
+  width: 25%;
+  display: none;
+  top: 0px;
+  height: 100%;
+  position: absolute;
+  list-style: none;
+  z-index: 98;
+  white-space: nowrap; 
+  -webkit-box-shadow: 0 6px 50px rgba(0,0,0,.04);
+  box-shadow: 0 6px 50px rgba(0,0,0,.04);
+}
+
+.navigation-portrait .isbir-dropdown {
+  width: 100%;
+  position: static;
+  left: 0;
+}
+
+.isbir-dropdown .isbir-dropdown {
+  left: 100%; 
+}
+
+.nav-menu > li > .isbir-dropdown {
+  /*border: solid 1px #f0f0f0;*/
+}
+
+.isbir-dropdown > li {
+  width: 100%;
+  float: left;
+  clear: both;
+  position: relative;
+  text-align: left;
+}
+
+.isbir-dropdown > li > a {
+  width: 100%;
+  padding: 11px 20px;
+  display: inline-block;
+  text-decoration: none;
+  float: left;
+  font-size: 15px; 
+  font-weight: 500;
+  color: #70798b;
+  background-color: #fff;
+  -webkit-transition: color 0.3s, background 0.3s;
+  transition: color 0.3s, background 0.3s;
+}
+
+.isbir-dropdown.isbir-dropdown-left {
+  right: 0;
+}
+
+.isbir-dropdown > li > .isbir-dropdown-left {
+  left: auto;
+  right: 100%;
+}
+
+.navigation-landscape .isbir-dropdown.isbir-dropdown-left > li > a {
+  text-align: right;
+}
+
+.navigation-portrait .isbir-dropdown > li > a {
+  padding: 12px 20px 12px 30px;
+}
+
+.navigation-portrait .isbir-dropdown > li > ul > li > a {
+  padding-left: 50px;
+}
+
+.navigation-portrait .isbir-dropdown > li > ul > li > ul > li > a {
+  padding-left: 70px;
+}
+
+.navigation-portrait .isbir-dropdown > li > ul > li > ul > li > ul > li > a {
+  padding-left: 90px;
+}
+
+.navigation-portrait .isbir-dropdown > li > ul > li > ul > li > ul > li > ul > li > a {
+  padding-left: 110px;
+}
+
+.isbir-dropdown .submenu-indicator {
+  right: 15px;
+  top: 16px;
+  position: absolute;
+}
+
+.navigation-portrait .isbir-dropdown .submenu-indicator {
+  right: 0;
+  top: 0;
+}
+
+.isbir-dropdown .submenu-indicator .submenu-indicator-chevron {
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.navigation-portrait .isbir-dropdown .submenu-indicator .submenu-indicator-chevron {
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.navigation-landscape .isbir-dropdown.isbir-dropdown-left .submenu-indicator {
+  left: 10px;
+}
+
+.navigation-landscape .isbir-dropdown.isbir-dropdown-left .submenu-indicator .submenu-indicator-chevron {
+  -webkit-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  transform: rotate(135deg);
+}
+
+/* HORIZONTAL DROPDOWN EXTENSION */
+.isbir-dropdown-horizontal {
+  width: 100%;
+  left: 0;
+  background-color: #fdfdfd;
+  border-top: solid 1px #f0f0f0;
+}
+
+.isbir-dropdown-horizontal .isbir-dropdown-horizontal {
+  width: 100%;
+  top: 100%;
+  left: 0;
+}
+
+.navigation-portrait .isbir-dropdown-horizontal .isbir-dropdown-horizontal {
+  border-top: none;
+}
+
+.isbir-dropdown-horizontal > li {
+  width: auto;
+  clear: none;
+  position: static;
+}
+
+.navigation-portrait .isbir-dropdown-horizontal > li {
+  width: 100%;
+}
+
+.isbir-dropdown-horizontal > li > a {
+  position: relative;
+}
+
+.isbir-dropdown-horizontal .submenu-indicator {
+  height: 18px;
+  top: 11px;
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+.navigation-portrait .isbir-dropdown-horizontal .submenu-indicator {
+  height: 42px;
+  top: 0;
+  -webkit-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+
+.navigation-portrait .isbir-dropdown-horizontal .submenu-indicator.submenu-indicator-up {
+  -webkit-transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  transform: rotate(-180deg);
+}
+
+/* MEGAMENU EXTENSION */
+.megamenu-panel {
+  width: 100%;
+  padding: 15px;
+  display: none;
+  position: absolute;
+  font-size: 14px;
+  z-index: 98;
+  text-align: left;
+  color: inherit;
+  border-top:solid 3px #be1824;
+  -webkit-box-shadow: 0 6px 50px rgba(0,0,0,.04);
+  box-shadow: 0 6px 50px rgba(0,0,0,.04);
+  background-color: #fff;
+}
+
+.navigation-portrait .megamenu-panel {
+  padding: 25px;
+  position: static;
+  display: block;
+}
+
+.megamenu-panel [class*="container"] {
+  width: 100%;
+}
+
+.megamenu-panel [class*="container"] [class*="col-"] {
+  padding: 0;
+}
+
+.megamenu-panel-half {
+  width: 50%;
+}
+
+.megamenu-panel-quarter {
+  width: 25%;
+}
+
+.navigation-portrait .megamenu-panel-half,
+.navigation-portrait .megamenu-panel-quarter {
+  width: 100%;
+}
+
+/* GRID */
+.megamenu-panel-row {
+  width: 100%;
+}
+
+.megamenu-panel-row:before, .megamenu-panel-row:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+
+.megamenu-panel-row:after {
+  clear: both;
+}
+
+.megamenu-panel-row [class*="col-"] {
+  display: block;
+  min-height: 20px;
+  float: left;
+  margin-left: 3%;
+}
+
+.megamenu-panel-row [class*="col-"]:first-child {
+  margin-left: 0;
+}
+
+.navigation-portrait .megamenu-panel-row [class*="col-"] {
+  float: none;
+  display: block;
+  width: 100% !important;
+  margin-left: 0;
+  margin-top: 15px;
+}
+
+.navigation-portrait .megamenu-panel-row:first-child [class*="col-"]:first-child {
+  margin-top: 0;
+}
+
+.megamenu-panel-row .col-1 {
+  width: 5.583333333333%;
+}
+
+.megamenu-panel-row .col-2 {
+  width: 14.166666666666%;
+}
+
+.megamenu-panel-row .col-3 {
+  width: 22.75%;
+}
+
+.megamenu-panel-row .col-4 {
+  width: 31.333333333333%;
+}
+
+.megamenu-panel-row .col-5 {
+  width: 39.916666666667%;
+}
+
+.megamenu-panel-row .col-6 {
+  width: 48.5%;
+}
+
+.megamenu-panel-row .col-7 {
+  width: 57.083333333333%;
+}
+
+.megamenu-panel-row .col-8 {
+  width: 65.666666666667%;
+}
+
+.megamenu-panel-row .col-9 {
+  width: 74.25%;
+}
+
+.megamenu-panel-row .col-10 {
+  width: 82.833333333334%;
+}
+
+.megamenu-panel-row .col-11 {
+  width: 91.416666666667%;
+}
+
+.megamenu-panel-row .col-12 {
+  width: 100%;
+}
+
+/* MEGAMENU TABS */
+.megamenu-tabs {
+  width: 100%;
+  float: left;
+  display: block;
+}
+
+.megamenu-tabs-nav {
+  width: 20%;
+  margin: 0;
+  padding: 0;
+  float: left;
+  list-style: none;
+}
+
+.navigation-portrait .megamenu-tabs-nav {
+  width: 100%;
+}
+
+.megamenu-tabs-nav > li > a {
+  width: 100%;
+  padding: 10px 16px;
+  float: left;
+  font-size: 13px;
+  text-decoration: none;
+  color: #70798b;
+  border: solid 1px #eff0f2;
+  outline: 0;
+  background-color: #ffffff;
+  -webkit-transition: background 0.3s;
+  transition: background 0.3s;
+}
+
+.megamenu-tabs-nav > li.active a,
+.megamenu-tabs-nav > li:hover a {
+  background-color: #f5f5f5;
+}
+
+.megamenu-tabs-pane {
+  width: 80%;
+  min-height: 30px;
+  padding: 20px;
+  float: right;
+  display: none;
+  opacity: 0;
+  font-size: 13px;
+  color: #70798b;
+  border: solid 1px #eff0f2;
+  background-color: #ffffff;
+  -webkit-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+}
+
+.megamenu-tabs-pane.active {
+  display: block;
+  opacity: 1;
+}
+
+.navigation-portrait .megamenu-tabs-pane {
+  width: 100%;
+}
+
+/* MEGAMENU LIST */
+.megamenu-lists {
+  width: 100%;
+  display: table;
+}
+
+/* The list */
+.megamenu-list {
+  width: 100%;
+  margin: 0 0 15px;
+  padding: 0;
+  display: inline-block;
+  float: left;
+  list-style: none;
+}
+
+.megamenu-list:last-child {
+  margin: 0;
+  border: none;
+}
+
+.navigation-landscape .megamenu-list {
+  margin: -15px 0;
+  padding: 20px 0;
+  border-right: solid 1px #f0f0f0;
+}
+
+.navigation-landscape .megamenu-list:last-child {
+  border: none;
+}
+
+.megamenu-list > li > a {
+  width: 100%;
+  padding: 10px 15px;
+  display: inline-block;
+  color: #70798b;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.megamenu-list > li.megamenu-list-title > a {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0.8;
+  color: #222; 
+}
+
+.megamenu-list > li.megamenu-list-title > a:hover {
+  opacity: 1;
+  background-color: transparent;
+}
+
+.navigation-landscape .list-col-2 {
+  width: 50%;
+}
+
+.navigation-landscape .list-col-3 {
+  width: 33%;
+}
+
+.navigation-landscape .list-col-4 {
+  width: 25%;
+}
+
+/*--------------------
+  Transparent Navbar
+----------------------*/
+@media (min-width: 991px) {
+  #nav-transparent{
+    height: 0px !important; 
+  }
+
+  #nav-transparent .navigation{
+    width: 100%;
+    height: 95px;
+    display: table;
+    position: relative;
+    font-family: inherit;
+    background-color: transparent;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;     
+  }
+
+  #nav-transparent .navigation-fixed-wrapper{
+    background-color: transparent;
+    border-bottom: 1px solid rgba(255, 255, 255, .1);
+    box-shadow: none;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;     
+  }
+
+  /*Nav Links*/
+  #nav-transparent .nav-menu > li > a {
+    height: 95px;
+    padding: 0 16px 0 16px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    -webkit-transition: color 0.3s, background 0.3s;
+    transition: color 0.3s, background 0.3s;
+  }
+
+  #nav-transparent .navigation-portrait .nav-menu > li > a {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 95px;
+    padding: 0 16px 0 16px;
+  }
+
+  #nav-transparent .submenu-indicator-chevron {
+    border-color: transparent #fff #fff transparent;
+    -webkit-transition: border 0.3s;
+    transition: border 0.3s;
+  }
+
+  #nav-transparent .isbir-dropdown .submenu-indicator-chevron {
+    border-color: transparent #70798b #70798b transparent;
+    -webkit-transition: border 0.3s;
+    transition: border 0.3s;
+  }  
+
+  #nav-transparent .nav-search-button i{
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+  }
+  @media (max-width: 991px) {
+    #nav-transparent .nav-search-button{
+      margin-top: 0px;
+    }
+    #nav-transparent .nav-search-button i{
+      font-size: 17px;
+      font-weight: 600;
+    }   
+  }
+
+  /*White Options*/
+  #nav-transparent .nav-white-bg{
+    background: #fff;
+    border-bottom: 1px solid #eee;
+    box-shadow: 0 0 65px rgba(0,0,0,.09);    
+  }
+
+  #nav-transparent .nav-white-bg{
+    background: #fff;
+  }  
+
+  #nav-transparent .nav-white-bg .nav-menu > li > a {
+    height: 95px;
+    padding: 0 16px 0 16px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #222;
+    -webkit-transition: color 0.3s, background 0.3s;
+    transition: color 0.3s, background 0.3s;
+  }  
+
+  #nav-transparent .nav-white-bg .submenu-indicator-chevron {
+    border-color: transparent #222 #222 transparent;
+    -webkit-transition: border 0.3s;
+    transition: border 0.3s;
+  }
+
+  #nav-transparent .nav-white-bg .nav-search-button i{
+    font-size: 15px;
+    font-weight: 600;
+    color: #222;
+  } 
+
+  #main_logo{
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;   
+  }
+  #light_logo{
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;   
+  }  
+
+}
+
+
+
+
+
+/*--------------------
+  Push Nav
+----------------------*/
+.push-content{
+  margin-left: 300px;
+}
+@media screen and (max-width: 991px) {
+  .push-content{
+    margin-left: 0px;
+  }   
+}
+
+#navigation-push .navigation{
+  z-index: 999;
+}
+
+#navigation-push .navigation-portrait .nav-menus-wrapper{
+  width: 300px;
+  max-width: 100%;
+}
+
+
+#navigation-push .navigation-portrait .nav-menu > li > a {
+    width: 100%;
+    height: auto;
+    padding: 16px 15px 16px 26px;
+}
+
+#navigation-push .nav-menus-wrapper{
+    -webkit-box-shadow: 0 0 18px rgba(28, 31, 33, 0.07);
+    box-shadow: 0 0 18px rgba(28, 31, 33, 0.07);
+}
+
+#navigation-push .nav-menu{
+  padding-bottom: 30px;
+}
+
+#navigation-push .nav-brand img{
+  margin: 40px 0px;
+}
+
+
+#navigation-push .nav-menus-wrapper::-webkit-scrollbar {
+    width: 4px;
+}
+
+#navigation-push .nav-menus-wrapper::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 0px rgba(0,0,0,0.3); 
+    border-radius: 0px;
+}
+
+#navigation-push .nav-menus-wrapper::-webkit-scrollbar-thumb {
+    border-radius: 0px;
+    -webkit-box-shadow: inset 6px 6px 6px rgba(0,0,0,0.3); 
+}
+
+
+#navigation-push .btn-show{
+  font-size: 25px;
+  color: #70798b;
+  margin-top: 6px;
+}
+
+#navigation-push .small-size-header{
+  padding: 15px 0px;
+  text-align: right;
+}
+</style>
+<div id="top-bar" class="hidden-sm-down">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9 col-12">
+				<div class="top-bar-welcome">
+					<ul>
+						<li><img src="./iş_files/tskgv_logo.png"><span style="opacity: 0.7;"> İŞBİR ELEKTRİK SANAYİ A.Ş. Türk Silahlı Kuvvetlerini Güçlendirme Vakfı'nın bir kuruluşudur.</span></li>
+					</ul>
+				</div>
+				<div class="top-bar-info">
+					<ul>
+						<li><img src="./iş_files/45yil-beyaz.svg" alt="45 Yıl" style="width: 65px;"></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-3 col-12 top-bar-info" style="text-align:right;">
+				<ul>
+					<li><a href="tel:4440910"><img src="./iş_files/444-servis-beyaz.svg" alt="Servis ve Hizmet Desteği" style="width: 177px;"></a></li>  
+				</ul> 
+			</div>
+		</div>
+	</div>
+</div>
+	
+<header>
+	<div class="navigation-fixed-placeholder visible" style="height: 95px;"></div><div class="navigation-fixed-wrapper fixed" style="top: 0px;"><nav id="navigation4" class="container navigation navigation-landscape" style="width: 1519px;">
+		<div class="nav-header">
+			<a class="nav-brand" href="http://www.isbirelektrik.com.tr/index.php"> 
+				<img src="./iş_files/footer-logo.svg" alt="İşbir Elektrik Sanayi A.Ş." class="main-logo" style="height:80px;"> 
+			</a>
+			<div class="nav-toggle"></div>
+		</div>
+		<div class="nav-menus-wrapper" style="transition-property: none;"><span class="nav-menus-wrapper-close-button">✕</span>
+			<ul class="nav-menu align-to-right"> 
+				<li><a href="http://www.isbirelektrik.com.tr/index.php#">KURUMSAL<span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+          <ul class="nav-dropdown nav-submenu" style="right: auto;"> 
+            <li><a href="http://www.isbirelektrik.com.tr/vizyon-misyon.php">VİZYON &amp; MİSYON</a></li>
+            <li><a href="http://www.isbirelektrik.com.tr/tarihce.php">TARİHÇE</a></li>
+            <li><a href="http://www.isbirelektrik.com.tr/organizasyon-yapisi.php">ORGANİZASYON YAPISI</a></li>
+            <li><a href="http://www.isbirelektrik.com.tr/yonetim-kurulu.php">YÖNETİM KURULU</a></li>
+            <li><a href="http://www.isbirelektrik.com.tr/politikamiz.php">POLİTİKAMIZ</a></li>
+            <li><a href="http://www.isbirelektrik.com.tr/etik-ilkeler.php">ETİK İLKELER</a></li> 
+            <li><a href="http://www.isbirelektrik.com.tr/kalite-belgelerimiz.php">KALİTE BELGELERİMİZ</a></li> 
+            <li><a href="http://www.isbirelektrik.com.tr/kvkk.php">KVKK</a></li> 
+          </ul> 
+        </li> 
+        <li class=""><a href="http://www.isbirelektrik.com.tr/urunler.php">ÜRÜNLER<span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+          <ul class="nav-dropdown nav-submenu" style="right: auto; display: none;">  
+            <li><a href="http://www.isbirelektrik.com.tr/index.php#">TAKTİK SESSİZ KABİNLİ JENERATÖRLER<span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+              <ul class="nav-dropdown nav-submenu" style="">
+                <li><a href="http://www.isbirelektrik.com.tr/5-kw-6-25-kva-su-sogutmali.php">5 kW 6.25 kVA</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/10-kw-12-5-kva-su-sogutmali.php">10 kW 12.5 kVA</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/13-kw-15-kva-su-sogutmali.php">13 kW 15 kVA</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/20-kw-25-kva-su-sogutmali.php">20 kW 25 kVA</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/30-kw-37-5-kva-su-sogutmali.php">30 kW 37.5 kVA</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/20-kw-25-kva-hava-sogutmali.php">20 kW 25 kVA</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/30-kw-37-5-kva-hava-sogutmali.php">30 kW 37.5 kVA</a></li>  
+              </ul>
+            </li>
+            <li><a href="http://www.isbirelektrik.com.tr/index.php#">PORTATİF DİZEL JENERATÖRLER<span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+              <ul class="nav-dropdown nav-submenu" style="">
+                <li><a href="http://www.isbirelektrik.com.tr/1-80-kw-2-25-kva.php">1.8 kW 2.25 kVA</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/2-52-kw-3-15-kva.php">2.52 kW 3.15 kVA</a></li>  
+              </ul>
+            </li>
+            <li><a href="http://www.isbirelektrik.com.tr/index.php#">MOBİL JENERATÖRLER<span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+              <ul class="nav-dropdown nav-submenu" style="">
+                <li><a href="http://www.isbirelektrik.com.tr/50-hz-dual.php">50 Hz DUAL</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/400-hz.php">400 Hz</a></li>
+              </ul>
+            </li>
+            <li><a href="http://www.isbirelektrik.com.tr/index.php#">ASKERİ TİP GÜÇ KONTEYNERİ<span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+              <ul class="nav-dropdown nav-submenu" style="">
+                <li><a href="http://www.isbirelektrik.com.tr/elektromanyetik-uyumlu-senkronize-konteyner.php">Elektromanyetik Uyumlu Senkronize Konteyner</a></li>  
+              </ul>
+            </li>
+            <li><a href="http://www.isbirelektrik.com.tr/index.php#">SENKRON SİSTEMLER</a> </li> 
+            <li><a href="http://www.isbirelektrik.com.tr/marin-jenerator.php">MARİN JENERATÖR</a> </li> 
+            <li><a href="http://www.isbirelektrik.com.tr/index.php#">ASKERİ KOMBİNE JENERATÖRLER<span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+              <ul class="nav-dropdown nav-submenu" style="">
+                <li><a href="http://www.isbirelektrik.com.tr/28v-60a-56v-60a.php">28V 60A / 56V 60A</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/28-klimatize.php">28V Klimatize</a></li> 
+              </ul>
+            </li>
+          </ul> 
+        </li>   
+        <li><a href="http://www.isbirelektrik.com.tr/index.php#">HİZMETLER<span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+          <ul class="nav-dropdown nav-submenu" style="right: auto;">  
+            <li><a href="http://www.isbirelektrik.com.tr/index.php#">HİZMETLER<span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+              <ul class="nav-dropdown nav-submenu" style="">
+                <li><a href="http://www.isbirelektrik.com.tr/yetkili-bayiler.php">YETKİLİ BAYİLER</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/yetkili-servisler.php">YETKİLİ SERVİSLER</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/ariza-destek.php">ARIZA DESTEK</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/garanti.php">GARANTİ</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/yer-guc-tespiti.php">YER VE GÜÇ TESPİTİ</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/satis-sonrasi-hizmetlerimiz.php">SATIŞ SONRASI HİZMETLERİMİZ</a></li>
+              </ul>
+            </li>
+            <li><a href="http://www.isbirelektrik.com.tr/index.php#">BAKIM<span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+              <ul class="nav-dropdown nav-submenu" style="">
+                <li><a href="http://www.isbirelektrik.com.tr/periyodik-bakim.php">PERİYODİK BAKIM</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/yedek-parca-destegi.php">YEDEK PARÇA DESTEĞİ</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/genel-ariza-nedenleri.php">GENEL ARIZA NEDENLERİ</a></li>
+              </ul>
+            </li>
+            <li><a href="http://www.isbirelektrik.com.tr/index.php#">ARGE<span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+              <ul class="nav-dropdown nav-submenu" style="">
+                <li><a href="http://www.isbirelektrik.com.tr/inovasyon.php">İNOVASYON</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/jenerator.php">JENERATÖR</a></li>
+                <li><a href="http://www.isbirelektrik.com.tr/alternator.php">ALTERNATÖR</a></li> 
+              </ul>
+            </li>
+            <!--<li><a href="#">TEDARİKÇİLER</a>
+              <ul class="nav-dropdown">
+                <li><a href="tedarikci-olmak.php">TEDARİKÇİ OLMAK</a></li>
+                <li><a href="hukum-sartlar.php">HÜKÜM VE ŞARTLAR</a></li>
+                <li><a href="baslica-tedarikcilerimiz.php">BAŞLICA TEDARİKÇİLERİMİZ</a></li>
+              </ul>
+            </li>-->
+          </ul> 
+        </li>  
+        <li><a href="http://www.isbirelektrik.com.tr/referanslar.php">REFERANS</a></li>
+        <li class=""><a href="http://www.isbirelektrik.com.tr/index.php#">MEDYA MERKEZİ<span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+          <ul class="nav-dropdown nav-submenu" style="right: auto; display: none;">  
+            <li><a href="http://www.isbirelektrik.com.tr/haberler.php">HABERLER</a></li>
+            <li><a href="http://www.isbirelektrik.com.tr/duyurular.php">DUYURULAR</a></li>
+            <li><a href="http://www.isbirelektrik.com.tr/kataloglar.php">KATALOG &amp; BROŞÜRLER</a></li>
+            <li><a href="http://www.isbirelektrik.com.tr/kurumsal-kimlik.php">KURUMSAL KİMLİK</a></li>
+          </ul> 
+        </li> 
+        <li class=""><a href="http://www.isbirelektrik.com.tr/insan-kaynaklari.php">İK</a></li>
+        <li><a href="http://www.isbirelektrik.com.tr/iletisim.php">İLETİŞİM</a></li>
+			</ul>
+		</div>
+	<div class="nav-overlay-panel"></div></nav></div>
+ </header> 
+
+<div class="swiper-main-slider swiper-container swiper-container-horizontal">
+	<div class="swiper-wrapper" style="transform: translate3d(-3038px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" style="background-image: url(&quot;img/slider/banner-3.png&quot;); width: 1519px;" data-swiper-slide-index="2"> 
+		</div> 
+		<div class="swiper-slide swiper-slide-prev" style="background-image: url(&quot;img/slider/banner-1.png&quot;); width: 1519px;" data-swiper-slide-index="0"> 
+		</div>
+		<div class="swiper-slide swiper-slide-active" style="background-image: url(&quot;img/slider/banner-2.png&quot;); width: 1519px;" data-swiper-slide-index="1"> 
+		</div>
+		<div class="swiper-slide swiper-slide-next" style="background-image: url(&quot;img/slider/banner-3.png&quot;); width: 1519px;" data-swiper-slide-index="2"> 
+		</div>
+	<div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" style="background-image: url(&quot;img/slider/banner-1.png&quot;); width: 1519px;" data-swiper-slide-index="0"> 
+		</div></div>
+	<div class="swiper-button-next"></div>
+	<div class="swiper-button-prev"></div>
+	<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span></div>
+</div>
+
+ 
+ 
+	<div class="section-block-grey" style="background-color:#fff; padding: 30px 0px 30px 0px!important;">
+		<div class="container"> 
+			
+			<div class="row align-items-center">
+				<div class="col-md-12 col-sm-12 col-12">
+  				  <div class="owl-carousel owl-theme mt-50 owl-loaded owl-drag" id="services-carousel"> 
+  				  	 
+			  		<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 5850px;"><div class="owl-item active" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/1.png"><img src="./iş_files/1.png"></a> </div></div><div class="owl-item active" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/2.png"><img src="./iş_files/2.png"></a> </div></div><div class="owl-item active" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/3.png"><img src="./iş_files/3.png"></a> </div></div><div class="owl-item" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/4.png"><img src="./iş_files/4.png"></a> </div></div><div class="owl-item" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/5.png"><img src="./iş_files/5.png"></a> </div></div><div class="owl-item" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/6.png"><img src="./iş_files/6.png"></a> </div></div><div class="owl-item" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/7.png"><img src="./iş_files/7.png"></a> </div></div><div class="owl-item" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/8.png"><img src="./iş_files/8.png"></a> </div></div><div class="owl-item" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/9.png"><img src="./iş_files/9.png"></a> </div></div><div class="owl-item" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/10.png"><img src="./iş_files/10.png"></a> </div></div><div class="owl-item" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/11.png"><img src="./iş_files/11.png"></a> </div></div><div class="owl-item" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/12.png"><img src="./iş_files/12.png"></a> </div></div><div class="owl-item" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/13.png"><img src="./iş_files/13.png"></a> </div></div><div class="owl-item" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/14.png"><img src="./iş_files/14.png"></a> </div></div><div class="owl-item" style="width: 390px;"><div class="service-box galeri" style="background: #ffffff00!important; overflow: -webkit-box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%)!important; -moz-box-shadow: 0px 0px 0px 0px rgba(50, 50, 50, 0.12)!; box-shadow: 0px 0px 0px 0px rgb(50 50 50 / 12%);"><a data-lightbox="mygallery" href="./iş_files/15.png"><img src="./iş_files/15.png"></a> </div></div></div></div><div class="owl-nav"><div class="owl-prev disabled"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"></div></div>
+  			</div>  
+  		</div>
+		</div>
+	</div>  
+
+    <script src="./iş_files/lightbox-plus-jquery.js.indir"></script>
+   	<link rel="stylesheet" href="./iş_files/lightbox.css">
+   <style> 
+   
+        .galeri img {  
+            transition: 1s;  
+        } 
+           
+    </style> 
+
+ 
+
+	
+ 
+
+	<div class="notice-section notice-section-md" style="background-color:#96694C;">
+  	<div class="container">
+  		<div class="row align-items-center">
+  			<div class="col-md-7 col-sm-6 col-12">
+  				<div class="">
+  					<h2 class="white-color isbir-power" style="font-size:60px;"> </h2>
+  				</div>
+  			</div>
+  			<div class="col-md-5 col-sm-6 col-12">
+  				<div class="" style=" text-align:justify;">
+  					<p class="white-color" style="font-size:16px;">
+  						Geçmişten gelen tecrübesini günümüz teknolojisiyle birleştirerek; başta Türk Silahlı Kuvvetleri olmak üzere pek kamu kurumu ve özel kuruluşun mobil enerji ihtiyacını karşılayarak çözüm ortağı olan, bulunduğu coğrafyada tek en büyük kuruluş...
+					</p>
+  					&nbsp;
+  					&nbsp;
+  					<p class="white-color" style="font-size:16px;">
+  						İŞBİR Elektrik Sanayi A.Ş. Mühendisleri ve Teknisyenleri tarafından özel olarak tasarlanan ve üretilen pano, alternatör ve dual setler sahada başarılara imza atarak kendini kanıtlamıştır.
+					</p>
+					&nbsp;
+  					&nbsp;
+  					<p class="white-color" style="font-size:16px;">	
+  						Savunma Sanayi için, muharebe, taktik ve haberleşme sistemlerinin modernizasyonu amacıyla gerçekleştirilen bir çok özel proje kapsamında Taktik Sessiz / Mobil / Senkronize / Dual / Yedekli / 50/60Hz / 400Hz / Askeri Kombine / Askeri Portatif; enerji kaynakları, İŞBİR Elektrik Sanayi A.Ş. tarafından üretilmektedir. 
+					</p>
+  				</div>
+  			</div>
+  		</div>
+  	</div>
+  </div> 
+
+ 
+	<div class="section-clients-grey" style="background-color:#ededed;">
+		<div class="container">
+			<div class="row align-items-center">
+  			<div class="col-md-12 col-sm-12 col-12" style="text-align:center;">
+  				<div class="">
+  					<h2 style="color:#1D1D1B;font-size: 40px; letter-spacing: 3px;"><span style="color:#96694C; font-weight: 700;">TSKGV</span> Bağlı Ortaklıkları </h2>
+  				</div>
+  			</div>  
+  		</div>
+			<div class="owl-carousel owl-theme clients owl-loaded owl-drag" id="clients" style="margin:75px 0;">
+				
+				
+				
+				
+				 
+			<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1613px, 0px, 0px); transition: all 0.85s ease 0s; width: 3429px;"><div class="owl-item cloned" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/tusas.svg" alt="partner-image">
+				</div></div><div class="owl-item cloned" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/roketsan.svg" alt="partner-image">
+				</div></div><div class="owl-item cloned" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/havelsan.svg" alt="partner-image">
+				</div></div><div class="owl-item cloned" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/aspilsan_logo.svg" alt="partner-image">
+				</div></div><div class="owl-item cloned" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/aselsan.svg" alt="partner-image">
+				</div></div><div class="owl-item cloned" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/tusas.svg" alt="partner-image">
+				</div></div><div class="owl-item" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/roketsan.svg" alt="partner-image">
+				</div></div><div class="owl-item" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/havelsan.svg" alt="partner-image">
+				</div></div><div class="owl-item active" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/aspilsan_logo.svg" alt="partner-image">
+				</div></div><div class="owl-item active" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/aselsan.svg" alt="partner-image">
+				</div></div><div class="owl-item active" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/tusas.svg" alt="partner-image">
+				</div></div><div class="owl-item cloned active" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/roketsan.svg" alt="partner-image">
+				</div></div><div class="owl-item cloned active" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/havelsan.svg" alt="partner-image">
+				</div></div><div class="owl-item cloned active" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/aspilsan_logo.svg" alt="partner-image">
+				</div></div><div class="owl-item cloned" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/aselsan.svg" alt="partner-image">
+				</div></div><div class="owl-item cloned" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/tusas.svg" alt="partner-image">
+				</div></div><div class="owl-item cloned" style="width: 161.667px; margin-right: 40px;"><div class="item partners">
+					<img src="./iş_files/roketsan.svg" alt="partner-image">
+				</div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots disabled"></div></div>
+		</div>
+	</div>
+  
+	<div class="section-block-grey">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-sm-6 col-12">
+					<div class="section-heading">
+						<h4>Haberler</h4>
+						<div class="section-heading-line-left"></div>
+					</div>
+					<div class="row mt-20">
+
+			 			<div class="col-lg-6 col-md-6 col-12"> 
+							<div class="service-box">
+								<a href="http://www.isbirelektrik.com.tr/isbir-jeneratorden-dev-yatirim.php">
+									<img src="./iş_files/small-isbir-jeneratorden-dev-yatirim.jpg" alt="İşbir Jeneratörden Dev Yatırım" style="border-bottom: 1px solid #ffffff">
+								</a>
+								<div class="service-inner-box clearfix"> 
+									<div class="service-content-box">
+										<!--<span style="color:#ffffff; font-size: 10px;">22 Mayıs 2022</span> 
+										&nbsp;-->
+										<h3><a href="http://www.isbirelektrik.com.tr/isbir-jeneratorden-dev-yatirim.php" style="color:#ffffff;">İşbir Jeneratörden<br>Dev Yatırım</a></h3> 
+									</div>
+								</div>
+								<div class="" style="width: 100%; background-color: #ffffff; padding: 10px 20px;">
+									<a href="http://www.isbirelektrik.com.tr/isbir-jeneratorden-dev-yatirim.php"><span style="color:#BE1622; font-size: 15px;">Detaya Git &gt;</span></a>
+								</div>
+							</div>	 
+						</div>
+
+			 			<div class="col-lg-6 col-md-6 col-12">
+			 				<div class="service-box">
+			 					<a href="http://www.isbirelektrik.com.tr/isbir-jenerator-yeni-yatirimiyla-seri-alternator-uretimine-geciyor.php">
+									<img src="./iş_files/small-isbir-jenerator-yeni-yatirimiyla-seri-alternator-uretimine-geciyor.jpg" alt="İşbir Jeneratör Yeni Yatırımıyla Seri Alternatör Üretimine Geçiyor" style="border-bottom: 1px solid #ffffff">
+								</a>
+								<div class="service-inner-box clearfix"> 
+									<div class="service-content-box">
+										<!--<span style="color:#ffffff; font-size: 10px;">22 Mayıs 2022</span> 
+										&nbsp;-->
+										<h3><a href="http://www.isbirelektrik.com.tr/isbir-jenerator-yeni-yatirimiyla-seri-alternator-uretimine-geciyor.php" style="color:#ffffff;">İşbir Jeneratör Seri<br>Alternatör Üretimine Geçiyor</a></h3> 
+									</div>
+								</div>
+								<div class="" style="width: 100%; background-color: #ffffff; padding: 10px 20px;">
+									<a href="http://www.isbirelektrik.com.tr/isbir-jenerator-yeni-yatirimiyla-seri-alternator-uretimine-geciyor.php"><span style="color:#BE1622; font-size: 15px;">Detaya Git &gt;</span></a>
+								</div>
+							</div>	 
+						</div>
+			 		</div>   
+				</div>
+				<div class="col-md-4 col-sm-6 col-12">
+					<div class="section-heading">
+						<h4>Duyurular</h4>
+						<div class="section-heading-line-left"></div>
+					</div>
+					<div class="accordion border-bottom-0" id="accordion" role="tablist" aria-multiselectable="true"> 
+
+						<div class="panel panel-default accordion">  
+							<div class="panel-heading accordion-heading" role="tab" id="headingThree"> 
+								<h4 class="panel-title accordion-title"> 
+									<a role="button" data-toggle="collapse" data-parent="#accordion" href="http://www.isbirelektrik.com.tr/index.php#collapseThree" aria-expanded="false" aria-controls="collapseThree" class="collapsed">ICDDA | 12 - 14 Ekim Tarihlerinde<br>5. Savunma ve Havacılıkta<br> Endüstriyel İşbirliği Günleri'ndeyiz!</a>
+								</h4>
+							</div>
+							<div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" style=""> 
+								<div class="panel-body accordion-body"><img src="./iş_files/ankara-icdda.png" alt="ICDDA - 5. Savunma ve Havacılıkta Endüstriyel İşbirliği Günleri&#39;ndeyiz!"></div>
+							</div>
+						</div> 
+
+						<div class="panel panel-default accordion">  
+							<div class="panel-heading accordion-heading" role="tab" id="headingTwo"> 
+								<h4 class="panel-title accordion-title"> 
+									<a role="button" data-toggle="collapse" data-parent="#accordion" href="http://www.isbirelektrik.com.tr/index.php#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" class="collapsed">Eskişehir Endüstri Fuarı | 18 - 21 Ekim Tarihlerinde <br>2. Arge Sanayi ve Teknoloji Fuarı'ndayız!</a>
+								</h4>
+							</div>
+							<div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" style=""> 
+								<div class="panel-body accordion-body"><img src="./iş_files/eskisehir-endustri-fuari.png" alt="Eshişehir Endüstri Fuarı - 2. Arge Sanayi ve Teknoloji Fuarı&#39;ndayız!"></div>
+							</div>
+						</div>  
+
+
+						<div class="panel panel-default accordion"> 
+							<div class="panel-heading accordion-heading" role="tab" id="headingOne"> 
+								<h4 class="panel-title accordion-title"> 
+									<a role="button" data-toggle="collapse" data-parent="#accordion" href="http://www.isbirelektrik.com.tr/index.php#collapseOne" aria-expanded="false" aria-controls="collapseOne" class="collapsed">SAHA EXPO | 25-28 Ekim Tarihlerinde<br>Savunma, Havacılık ve Uzay Sanayi Fuarındayız!</a>
+								</h4>
+							</div>
+							<div id="collapseOne" class="collapse" role="tabpanel" aria-labelledby="headingOne" style=""> 
+								<div class="panel-body accordion-body"><img src="./iş_files/expo-fuar.png" alt="SAHA EXPO - Savunma, Havacılık ve Uzay Sanayi Fuarındayız!"></div>
+							</div> 
+						</div> 
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+ 
+	
+	<!-- <img border="0" alt="" style="cursor: hand;" onmouseout="this.src='img/roketsan.svg'" onmouseover="this.src='img/aselsan.svg'" src="img/roketsan.svg" />  -->
+<!--
+
+	
+ -->
+<!--
+	<div class="video-section">
+		<div class="video-area" id="video-area">
+			<div class="player" id="video-play" data-property="{videoURL:'https://www.youtube.com/watch?v=21u2LrERX8s', containment:'#video-area', showControls:false, autoPlay:true, zoom:0, loop:true, mute:true, startAt:55, opacity:1, quality:'high',}"> 
+			</div>
+			<div class="video-overlay" style="">
+				<div class="video-content" style="padding:350px 30px!important; text-align:right;">
+					<div class="section-heading white-color">
+					 	<span>İŞBİR ELEKTRİK</span>
+						<h2><strong>YAŞAMLA KESİNTİSİZ İŞBİRLİĞİ</strong></h2> 
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+ 
+  <div class="section-block-grey" style="background-color:#95694c; margin-bottom: -200px; z-index: 10;">
+		<div class="container" style=" background-color: #ededed;  padding:50px 0px 125px 0px;">
+			<div class="section-heading center-holder"> 
+				<h3 style="color:#95694c;font-size: 40px; letter-spacing: 3px;">HABERLER</h3>    
+			</div> 
+			<div class="owl-carousel owl-theme mt-20" id="services-carousel"> 
+				<div class="service-box">
+					<img src="img/haber-gorseli.png" alt="İşbir Elektrik Sanayi A.Ş." style="border-bottom: 1px solid #ffffff">
+					<div class="service-inner-box clearfix"> 
+						<div class="service-content-box">
+							<span style="color:#ffffff; font-size: 10px;">22 Mayıs 2022</span>
+							&nbsp;
+							<h3><a href="savas-gemilerine-jenerator-uretıyor.php" style="color:#ffffff;">Savaş Gemilerine<br> Jeneratör Üretiyor</a></h3> 
+						</div>
+					</div>
+					<div class="" style="width: 100%; background-color: #ffffff; padding: 10px 20px;">
+						<a href="savas-gemilerine-jenerator-uretıyor.php"><span style="color:#BE1622; font-size: 15px;">Detaya Git ></span></a>
+					</div>
+				</div>	 
+
+				<div class="service-box">
+					<img src="img/haber-gorseli.png" alt="İşbir Elektrik Sanayi A.Ş." style="border-bottom: 1px solid #ffffff">
+					<div class="service-inner-box clearfix"> 
+						<div class="service-content-box">
+							<span style="color:#ffffff; font-size: 10px;">22 Mayıs 2022</span>
+							&nbsp;
+							<h3><a href="isbir-elektrik-katarin-gemileri-icin-urettigi-jeneratorlerin-fabrika-kabullerini-tamamladi.php" style="color:#ffffff;">Katar'ın Gemi Jeneratörlerinin Fabrika Kabulleri Tamamlandı</a></h3> 
+						</div>
+					</div>
+					<div class="" style="width: 100%; background-color: #ffffff; padding: 10px 20px;">
+						<a href="isbir-elektrik-katarin-gemileri-icin-urettigi-jeneratorlerin-fabrika-kabullerini-tamamladi.php"><span style="color:#BE1622; font-size: 15px;">Detaya Git ></span></a>
+					</div>
+				</div>	 
+
+				<div class="service-box">
+					<img src="img/haber-gorseli.png" alt="İşbir Elektrik Sanayi A.Ş." style="border-bottom: 1px solid #ffffff">
+					<div class="service-inner-box clearfix"> 
+						<div class="service-content-box">
+							<span style="color:#ffffff; font-size: 10px;">22 Mayıs 2022</span>
+							&nbsp;
+							<h3><a href="2020-yili-enerji-sektorunde-ar-ge-ye-en-fazla-harcama-yapan-ilk-on-sirket.php" style="color:#ffffff;">2020 Yılı Enerji Sektöründe Ar-ge'ye En Fazla Harcama</a></h3> 
+						</div>
+					</div>
+					<div class="" style="width: 100%; background-color: #ffffff; padding: 10px 20px;">
+						<a href="2020-yili-enerji-sektorunde-ar-ge-ye-en-fazla-harcama-yapan-ilk-on-sirket.php"><span style="color:#BE1622; font-size: 15px;">Detaya Git ></span></a>
+					</div>
+				</div>	  
+			</div>
+		</div>
+		<div class="container" style="background: linear-gradient(#ededed,#ededed);  padding:50px; position: relative;">
+			<div class="section-heading center-holder">   
+				<h3 style="color:#95694c;font-size: 40px; letter-spacing: 3px;">DUYURULAR</h3>    
+			</div> 
+			<div class="row mt-40">
+				<div class="owl-carousel owl-theme" id="blog-grid">
+					<div class="blog-grid-simple">
+						<h4><a href="yapim-asamasinda.php">İşbir Elektrik Başvuru<br>Sistemi Yenilendi!</a></h4> 
+						<div class="blog-grid-simple-content">
+							<div class="row blog-grid-simple-date"> 
+								<div class="col-12">
+									<a href="#">22 Mayıs 2022</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="blog-grid-simple">
+						<h4><a href="yapim-asamasinda.php">İşbir Elektrik Başvuru<br>Sistemi Yenilendi!</a></h4> 
+						<div class="blog-grid-simple-content">
+							<div class="row blog-grid-simple-date"> 
+								<div class="col-12">
+									<a href="#">22 Mayıs 2022</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="blog-grid-simple">
+						<h4><a href="yapim-asamasinda.php">İşbir Elektrik Başvuru<br>Sistemi Yenilendi!</a></h4> 
+						<div class="blog-grid-simple-content">
+							<div class="row blog-grid-simple-date"> 
+								<div class="col-12">
+									<a href="#">22 Mayıs 2022</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>  
+	</div>  -->
+ 
+<footer>
+	<div class="container">
+		<div class="row" style="height:225px; padding-top: 50px;">
+			<div class="col-md-12 col-sm-6 col-12" style="text-align:center;">
+				<h6 style="color:#1D1D1B; opacity:0.5;">Sosyal Ağlarımız</h6> 
+				<h2 style="color:#1D1D1B;">Bizi Takip Edin</h2> 
+				<ul style="list-style: none; display: block; margin-top:25px;"> 
+					<li style="display: inline;position: relative; padding-left:15px;">
+						<a href="https://www.instagram.com/isbirelektrik_resmi/" target="_blank"><i class="fa fa-instagram" style="color:#1D1D1B;"></i></a>
+					</li>
+					<li style="display: inline;position: relative; padding-left:15px;">
+						<a href="https://www.facebook.com/%C4%B0%C5%9EB%C4%B0R-Elektrik-Sanayi-A%C5%9E-102857628777434/" target="_blank"><i class="fa fa-facebook" style="color:#1D1D1B;"></i></a>
+					</li>
+					<li style="display: inline;position: relative; padding-left:15px;">
+						<a href="https://www.linkedin.com/company/isbirelektrik-resmi/" target="_blank"><i class="fa fa-linkedin" style="color:#1D1D1B;"></i></a>
+					</li>
+					<li style="display: inline;position: relative; padding-left:15px;">
+						<a href="https://twitter.com/isbirelektrik" target="_blank"><i class="fa fa-twitter" style="color:#1D1D1B;"></i></a>
+					</li>
+					<li style="display: inline;position: relative; padding-left:15px;">
+						<a href="https://www.youtube.com/channel/UCjTgO5R8qmF1tq0iI5kU_7w" target="_blank"><i class="fa fa-youtube" style="color:#1D1D1B;"></i></a>
+					</li>
+				<ul>
+			</ul></ul></div> 
+		</div>
+		<hr>
+		<div class="row">
+			<div class="col-md-12 col-sm-6 col-12" style="text-align:center;">
+				<img src="./iş_files/footer-logo.svg" style="height: 140px;">
+				<p>
+				</p><ul style="list-style: none; display: block; margin-top:25px;">
+					<li style="display: inline;position: relative; padding-left:15px;"><a href="http://www.isbirelektrik.com.tr/index.php#">Gizlilik &amp; Güvenlik</a></li>
+					<li style="display: inline;position: relative; padding-left:15px;"><a href="http://www.isbirelektrik.com.tr/index.php#">Çerez Politikaları</a></li>
+					<li style="display: inline;position: relative; padding-left:15px;"><a href="http://www.isbirelektrik.com.tr/kvkk.php">KVKK</a></li>
+					<li style="display: inline;position: relative; padding-left:15px;"><a href="http://www.isbirelektrik.com.tr/iletisim.php">İletişim</a></li>
+				<ul> 
+			</ul></ul></div>
+		</div>
+		<hr>
+		<div class="footer-bar">
+			<div class="row">
+				<div class="col-md-3 col-sm-6 col-12" style="text-align:center;">
+					<p style="color:#1D1D1B;">© 2022 İşbir Elektrik Sanayi A.Ş</p>
+				</div>
+				<div class="col-md-6 col-sm-6 col-12" style="text-align:center;">
+					<p style="color:#1D1D1B;font-size:12px;"><img src="./iş_files/tskgv_logo.png"> İŞBİR ELEKTRİK SANAYİ A.Ş. Türk Silahlı Kuvvetlerini Güçlendirme Vakfı'nın bir kuruluşudur.</p> 
+				</div>
+				<div class="col-md-3 col-sm-6 col-12" style="text-align:center;">
+					<p style="color:#1D1D1B;">Designed by <a href="https://www.gramajans.com/">Gram Ajans</a></p>  
+				</div>
+			</div> 
+		</div>
+	</div> 
+</footer>  
+
+<a href="http://www.isbirelektrik.com.tr/index.php#" class="scroll-to-top"> <i class="fa fa-angle-up" aria-hidden="true"></i></a>
+  
+<script src="./iş_files/jquery.min.js.indir"></script>
+<script src="./iş_files/popper.min.js.indir"></script>
+<script src="./iş_files/bootstrap.min.js.indir"></script>
+<script src="./iş_files/owl.carousel.js.indir"></script>
+<script src="./iş_files/navigation.js.indir"></script>
+<script src="./iş_files/navigation.fixed.js.indir"></script>
+<script src="./iş_files/wow.min.js.indir"></script>
+<script src="./iş_files/jquery.counterup.min.js.indir"></script>
+<script src="./iş_files/waypoints.min.js.indir"></script>
+<script src="./iş_files/tabs.min.js.indir"></script>
+<script src="./iş_files/isotope.pkgd.min.js.indir"></script>
+<script src="./iş_files/swiper.min.js.indir"></script>
+<script src="./iş_files/modernizr.js.indir"></script>
+<script src="./iş_files/switcher.js.indir"></script>
+<script src="./iş_files/map.js.indir"></script>
+<script src="./iş_files/main.js.indir"></script> 
+<script src="./iş_files/jquery.mb.YTPlayer.min.js.indir"></script>  
+
+
+
+ 
+<div id="lightboxOverlay" tabindex="-1" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" tabindex="-1" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt=""><div class="lb-nav"><a class="lb-prev" aria-label="Previous image" href="http://www.isbirelektrik.com.tr/index.php"></a><a class="lb-next" aria-label="Next image" href="http://www.isbirelektrik.com.tr/index.php"></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>
